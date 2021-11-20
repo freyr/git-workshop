@@ -53,16 +53,6 @@ $2275.00, 12, 2045,
 'Carefully researched study of the effects of strong emotions on the body. Metabolic charts included.',
 '06/15/91')
 
-insert titles values('PS2106', 'Life Without Fear', 'psychology', '0736', $7.00, $6000.00,
-10, 111,
-'New exercise, meditation, and nutritional techniques that can reduce the shock of daily interactions. Popular audience. Sample menus included, exercise video available separately.',
-'10/05/91')
-
-insert titles values('MC3021', 'The Gourmet Microwave', 'mod_cook', '0877', $2.99,
-$15000.00, 24, 22246,
-'Traditional French gourmet recipes adapted for modern microwave cooking.',
-'06/18/91')
-
 insert titles values('TC3218', 'Onions, Leeks, and Garlic: Cooking Secrets of the Mediterranean',
 'trad_cook', '0877', $20.95, $7000.00, 10, 375,
 'Profusely illustrated in color, this makes a wonderful gift book for a cuisine-oriented friend.',
