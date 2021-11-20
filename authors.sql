@@ -13,9 +13,7 @@ insert authors
 insert authors
    values('899-46-2035', 'Ringer', 'Anne', '801 826-0752',
    '67 Seventh Av.', 'Salt Lake City', 'UT', '84152', 1)
-insert authors
-   values('722-51-5454', 'DeFrance', 'Michel', '219 547-9982',
-   '3 Balding Pl.', 'Gary', 'IN', '46403', 1)
+
 insert authors
    values('807-91-6654', 'Panteley', 'Sylvia', '301 946-8853',
    '1956 Arlington Pl.', 'Rockville', 'MD', '20853', 1)
@@ -31,9 +29,7 @@ insert authors
 insert authors
    values('756-30-7391', 'Karsen', 'Livia', '415 534-9219',
    '5720 McAuley St.', 'Oakland', 'CA', '94609', 1)
-insert authors
-   values('724-80-9391', 'MacFeather', 'Stearns', '415 354-7128',
-   '44 Upland Hts.', 'Oakland', 'CA', '94612', 1)
+
 insert authors
    values('427-17-2319', 'Dull', 'Ann', '415 836-7128',
    '3410 Blonde St.', 'Palo Alto', 'CA', '94301', 1)
