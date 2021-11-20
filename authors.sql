@@ -1,9 +1,6 @@
 insert authors
-   values('409-56-7008', 'Bennet', 'Abraham', '415 658-9932',
-   '6223 Bateman St.', 'Berkeley', 'CA', '94705', 1)
-insert authors
    values('213-46-8915', 'Green', 'Marjorie', '415 986-7020',
-   '309 63rd St. #411', 'Oakland', 'CA', '94618', 1)
+   '330 63rd St. #411', 'Oakland', 'CA', '94618', 1)
 insert authors
    values('238-95-7766', 'Carson', 'Cheryl', '415 548-7723',
    '589 Darwin Ln.', 'Berkeley', 'CA', '94705', 1)
