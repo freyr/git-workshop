@@ -73,3 +73,8 @@ insert titles values('PS1372', 'Computer Phobic AND Non-Phobic Individuals: Beha
 
 insert titles (title_id, title, type, pub_id, notes) values('PC9999', 'Net Etiquette',
 'popular_comp', '1389', 'A must-read for computer conferencing.')
+
+insert titles values ('PC8998', 'Lorem ipsum book', 'popular_comp', '7261',
+$30.00, $761.00, 33, 4636,
+'this book examines the largest can do for you',
+'07/11/56')
