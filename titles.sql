@@ -54,7 +54,7 @@ $2275.00, 12, 2045,
 '06/15/91')
 
 insert titles values('TC3218', 'Onions, Leeks, and Garlic: Cooking Secrets of the Mediterranean',
-'trad_cook', '0877', $20.95, $7000.00, 10, 375,
+'trad_cook', '0877', $40.95, $7000.00, 10, 375,
 'Profusely illustrated in color, this makes a wonderful gift book for a cuisine-oriented friend.',
 '10/21/91')
 
