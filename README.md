@@ -1,1 +1,3 @@
 # git-workshop
+
+Jakas zmiana
