@@ -1,1 +1,2 @@
 # git-workshop
+DOKONANO EDYCJI PLIKU README
